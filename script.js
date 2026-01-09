@@ -9,6 +9,7 @@ let cart =[];
         showProducts(products);
         renderCart();
     }
+    
  );
  
 
